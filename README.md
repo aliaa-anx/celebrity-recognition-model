@@ -4,7 +4,7 @@ This repository houses a comparative study of various deep learning models appli
 
 ---
 
-##  Project Overview
+## 🚀 Project Overview
 
 The goal of this project is to implement and evaluate several popular Convolutional Neural Network (CNN) architectures, including **Inception V1**, **ResNet**, and **VGG-19**, to determine the most effective model for accurately identifying and localizing celebrity faces in images.
 
